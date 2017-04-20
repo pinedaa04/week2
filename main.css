@@ -1,0 +1,18 @@
+h1{
+  font-family: 'Sansita', sans-serif;
+  font-weight: bold;
+}
+h1{
+  font-family: 'Sansita', sans-serif;
+  font-weight: bold;
+}
+.gradient {
+  height: 100%;
+  background-color: #00FFF9; /*For browsers that don't allow for a gradient*/
+  background-image: -webkit-gradient(linear, center top, center bottom, from(#B6B9B8), to (#fff));
+  background-image: -webkit-linear-gradient(top, #00FFF9, #fff);
+  background-image: -moz-linear-gradient(top, #00FFF9, #fff);
+  background-image: -o-linear-gradient(top, #00FFF9, #fff);
+  background-image: -ms-linear-gradient(top, #00FFF9, #fff);
+  background-image: linear-gradient(to bottom, #00FFF9, #fff);
+} 
